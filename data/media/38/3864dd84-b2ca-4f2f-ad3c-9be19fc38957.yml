@@ -5,6 +5,6 @@ width: 300
 height: 212
 ratio: 1.4150943396226414
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM4NjRkZDg0LWIyY2EtNGYyZi1hZDNjLTliZTE5ZmMzODk1NyIsInB1ciI6ImJsb2JfaWQifX0=--c4fa9077939ab260e2b67d497a7b766143179f1b/JEUX-ANIMATION-300x212.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/06c4njb2r8ty0bsvl9dvasmrmt08
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM4NjRkZDg0LWIyY2EtNGYyZi1hZDNjLTliZTE5ZmMzODk1NyIsInB1ciI6ImJsb2JfaWQifX0=--392e3c747b6fe3c42e50eabc9f939f3a9976abfe/JEUX-ANIMATION-300x212.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/06c4njb2r8ty0bsvl9dvasmrmt08
 

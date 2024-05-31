@@ -5,6 +5,6 @@ width: 300
 height: 296
 ratio: 1.0135135135135136
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhNTRjMjY4LWRhZWYtNGM4Yy05ODQ0LWI2ODVlNTRmNjc3ZCIsInB1ciI6ImJsb2JfaWQifX0=--ed7051c9c0481180f4c493fbad81988fc765fa41/hirvois-300x296.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/3zm3c0u76gw3cskbghhgkhvenfev
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhNTRjMjY4LWRhZWYtNGM4Yy05ODQ0LWI2ODVlNTRmNjc3ZCIsInB1ciI6ImJsb2JfaWQifX0=--5fa54db173ffcb69baa5cd9b39ea4167ad765da1/hirvois-300x296.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3zm3c0u76gw3cskbghhgkhvenfev
 
