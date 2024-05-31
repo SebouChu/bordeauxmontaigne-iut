@@ -5,6 +5,6 @@ width: 1752
 height: 918
 ratio: 1.908496732026144
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFlMzI4ZTczLWZkZDktNGQ1My1iMzEzLTFmMTk2NjVhNTBlZSIsInB1ciI6ImJsb2JfaWQifX0=--9fa0fead1762c9d42c708a4a268ecb6335d23199/escape-game-copie.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/2y567cuqbwo6jrntsjqo4n4i76mk
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFlMzI4ZTczLWZkZDktNGQ1My1iMzEzLTFmMTk2NjVhNTBlZSIsInB1ciI6ImJsb2JfaWQifX0=--dd0f8c767ad9781e62b0461f35658328d7276d7f/escape-game-copie.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2y567cuqbwo6jrntsjqo4n4i76mk
 
