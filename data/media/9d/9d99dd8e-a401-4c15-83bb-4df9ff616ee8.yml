@@ -5,6 +5,6 @@ width: 1920
 height: 918
 ratio: 2.0915032679738563
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkOTlkZDhlLWE0MDEtNGMxNS04M2JiLTRkZjlmZjYxNmVlOCIsInB1ciI6ImJsb2JfaWQifX0=--83fe738b64a7b2318c9a9bfce4aae13007bc98c1/IUT-batimentA_04.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/6rym45nbcolifkfoe9n2ewwvmzml
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkOTlkZDhlLWE0MDEtNGMxNS04M2JiLTRkZjlmZjYxNmVlOCIsInB1ciI6ImJsb2JfaWQifX0=--68272d3f912cd5b4c9b8e76c09be744d30ec9eea/IUT-batimentA_04.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6rym45nbcolifkfoe9n2ewwvmzml
 

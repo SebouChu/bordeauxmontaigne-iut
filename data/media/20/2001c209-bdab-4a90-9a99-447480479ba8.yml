@@ -5,6 +5,6 @@ width: 1752
 height: 918
 ratio: 1.908496732026144
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIwMDFjMjA5LWJkYWItNGE5MC05YTk5LTQ0NzQ4MDQ3OWJhOCIsInB1ciI6ImJsb2JfaWQifX0=--b07e89a98a6285d5fdb6055f9c201d43a1b264be/IUT-plus-Michel.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/h9ch4yldsx9bfzw0vhoeng0dz6iq
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIwMDFjMjA5LWJkYWItNGE5MC05YTk5LTQ0NzQ4MDQ3OWJhOCIsInB1ciI6ImJsb2JfaWQifX0=--85095d01e7dd33a5a84b937cf4e2eb9f76525ddb/IUT-plus-Michel.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/h9ch4yldsx9bfzw0vhoeng0dz6iq
 
