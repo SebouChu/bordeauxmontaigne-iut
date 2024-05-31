@@ -5,6 +5,6 @@ width: 212
 height: 300
 ratio: 0.7066666666666667
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEzZmJhMzc2LWFjYjAtNDYyNC04YjI0LTk4MzhmYWQxNTMxZCIsInB1ciI6ImJsb2JfaWQifX0=--8ad681b89f2929b696db3eaf6839daf2f8c84998/Merci-212x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/4k9imkqn5yhpfnmsvl68da44spix
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEzZmJhMzc2LWFjYjAtNDYyNC04YjI0LTk4MzhmYWQxNTMxZCIsInB1ciI6ImJsb2JfaWQifX0=--548dd4caa8648ff8bf0be64f9f4eb5c31980e62d/Merci-212x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4k9imkqn5yhpfnmsvl68da44spix
 

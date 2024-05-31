@@ -5,6 +5,6 @@ width: 150
 height: 150
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4OGM3ZDZmLTFiNjEtNDU0My04NTJlLTM0ZTYyNmQ4Yzg4YyIsInB1ciI6ImJsb2JfaWQifX0=--7dedc8346d596d22c42779795fca37de907df25f/vignette-php_1-150x150.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/o97btoc9exrl3h12zr02xgc6utmb
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4OGM3ZDZmLTFiNjEtNDU0My04NTJlLTM0ZTYyNmQ4Yzg4YyIsInB1ciI6ImJsb2JfaWQifX0=--491e08cbcb342e056b89a1c8799d045d2985ee40/vignette-php_1-150x150.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/o97btoc9exrl3h12zr02xgc6utmb
 

@@ -5,6 +5,6 @@ width: 300
 height: 55
 ratio: 5.454545454545454
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRjMjQyMzc3LWFlY2ItNGFiOS04NmMwLTFiYTJkMGYxYWRiMiIsInB1ciI6ImJsb2JfaWQifX0=--bb33546f24221f1b8ca04ae4b67c6439288ef1eb/Logo-Nectart-300x55.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/60tnxrcaywkqfvvykzph588uzm18
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRjMjQyMzc3LWFlY2ItNGFiOS04NmMwLTFiYTJkMGYxYWRiMiIsInB1ciI6ImJsb2JfaWQifX0=--9741f91ca6bd0b2562000e6b1fee6dbc7be6a4fe/Logo-Nectart-300x55.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/60tnxrcaywkqfvvykzph588uzm18
 

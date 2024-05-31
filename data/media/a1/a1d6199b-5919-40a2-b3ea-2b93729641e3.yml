@@ -5,6 +5,6 @@ width: 840
 height: 470
 ratio: 1.7872340425531914
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImExZDYxOTliLTU5MTktNDBhMi1iM2VhLTJiOTM3Mjk2NDFlMyIsInB1ciI6ImJsb2JfaWQifX0=--f90bbef06103feaf95fcb0d662ad49861bcd21c4/TDLP_2022_BDX-METROPOLE_840x470px.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/jex2z73w3gsah67j3fdt2pyltavr
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImExZDYxOTliLTU5MTktNDBhMi1iM2VhLTJiOTM3Mjk2NDFlMyIsInB1ciI6ImJsb2JfaWQifX0=--b0a601f4d5199fd32defac73f3b031e165e418e7/TDLP_2022_BDX-METROPOLE_840x470px.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jex2z73w3gsah67j3fdt2pyltavr
 
