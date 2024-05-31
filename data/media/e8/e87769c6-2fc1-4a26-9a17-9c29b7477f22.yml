@@ -5,6 +5,6 @@ width: 212
 height: 300
 ratio: 0.7066666666666667
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4Nzc2OWM2LTJmYzEtNGEyNi05YTE3LTljMjliNzQ3N2YyMiIsInB1ciI6ImJsb2JfaWQifX0=--744997b72ee76b565fedc567761fec09d2bbcf60/La-place-des-hommes-dans-le-f-C3-A9minisme-1-212x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/g0y1eotb5wzdamltjdvxy1o9sedp
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4Nzc2OWM2LTJmYzEtNGEyNi05YTE3LTljMjliNzQ3N2YyMiIsInB1ciI6ImJsb2JfaWQifX0=--79f7ed6e597e02740bd85a4b7ffcdb23bd14d00b/La-place-des-hommes-dans-le-f-C3-A9minisme-1-212x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/g0y1eotb5wzdamltjdvxy1o9sedp
 

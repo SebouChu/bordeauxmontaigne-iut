@@ -5,6 +5,6 @@ width: 200
 height: 300
 ratio: 0.6666666666666666
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ4NjhlY2ZmLTQyOWItNDJjZi05ODdhLWQyYTc4YmNhNzZiMiIsInB1ciI6ImJsb2JfaWQifX0=--f5111d63548f6a4f7c00052a8ecb865b7fa86abd/expo-LPAV-2014-200x300.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/5xvbxszm3y7et8ehik7p33pl2yq5
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ4NjhlY2ZmLTQyOWItNDJjZi05ODdhLWQyYTc4YmNhNzZiMiIsInB1ciI6ImJsb2JfaWQifX0=--976499bf1eea0b3591ab6cddf59989ed89963b49/expo-LPAV-2014-200x300.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/5xvbxszm3y7et8ehik7p33pl2yq5
 

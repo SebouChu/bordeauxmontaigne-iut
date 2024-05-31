@@ -5,6 +5,6 @@ width: 1880
 height: 1342
 ratio: 1.4008941877794336
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYzZGVjNWUzLWQwZjAtNGJhMy1iZWJmLTU5NDVhMDM2OTlhYiIsInB1ciI6ImJsb2JfaWQifX0=--014c7fae6c30eebce95debc1f52242d765ed8a7e/carte_jeune_ph_F-Deval_1880x1020.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/qvqmz9g3d7hnsuf3jjg15hbrxs7b
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYzZGVjNWUzLWQwZjAtNGJhMy1iZWJmLTU5NDVhMDM2OTlhYiIsInB1ciI6ImJsb2JfaWQifX0=--1c3ee15bae5856cfa0f410725ea5812939f53be1/carte_jeune_ph_F-Deval_1880x1020.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qvqmz9g3d7hnsuf3jjg15hbrxs7b
 
