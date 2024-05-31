@@ -5,6 +5,6 @@ width: 150
 height: 150
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4NDcxYzUwLTY2NWItNGQ1Mi1hZTA2LWUwN2MyNGZiOTZhMyIsInB1ciI6ImJsb2JfaWQifX0=--bd97f12324f78be326c3738e70537f10c554effa/Carcassonne_large01-150x150.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/qy6jluojv64k48im0o342vqztthg
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4NDcxYzUwLTY2NWItNGQ1Mi1hZTA2LWUwN2MyNGZiOTZhMyIsInB1ciI6ImJsb2JfaWQifX0=--73558a32d3711193116b607603c13f87a4440ae2/Carcassonne_large01-150x150.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qy6jluojv64k48im0o342vqztthg
 

@@ -5,6 +5,6 @@ width: 210
 height: 300
 ratio: 0.7
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkzZGQxZTVlLWVmMTgtNGMwYi05ODhhLWQ5ZWFhMzQzN2MxMCIsInB1ciI6ImJsb2JfaWQifX0=--b3a673fe31f5a1cd5e0e47998404cdc16596a6be/goossaert-210x300.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/q7qyi14dug74klmjjxsfdk4wpvze
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkzZGQxZTVlLWVmMTgtNGMwYi05ODhhLWQ5ZWFhMzQzN2MxMCIsInB1ciI6ImJsb2JfaWQifX0=--14bcfe0c5f7a375ffd132e1749f1545e0375ebf8/goossaert-210x300.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/q7qyi14dug74klmjjxsfdk4wpvze
 

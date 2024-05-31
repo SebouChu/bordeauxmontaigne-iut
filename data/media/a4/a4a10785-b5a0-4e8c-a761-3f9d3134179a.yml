@@ -5,6 +5,6 @@ width: 1140
 height: 585
 ratio: 1.9487179487179487
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImE0YTEwNzg1LWI1YTAtNGU4Yy1hNzYxLTNmOWQzMTM0MTc5YSIsInB1ciI6ImJsb2JfaWQifX0=--4fa82a1aca654821282d9fc469eb0c433b3fd7f3/bordeaux-etu-2023.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/eay8kb607jrq8id86e53exvk8sra
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImE0YTEwNzg1LWI1YTAtNGU4Yy1hNzYxLTNmOWQzMTM0MTc5YSIsInB1ciI6ImJsb2JfaWQifX0=--5ec823b436d5b54c0015f4beff06644de649b65d/bordeaux-etu-2023.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/eay8kb607jrq8id86e53exvk8sra
 
