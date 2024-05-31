@@ -5,6 +5,6 @@ width: 639
 height: 306
 ratio: 2.088235294117647
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIyYzk2NjJjLTZjMGQtNGFiYS1hOGNlLWM3ZjMyZWE0YTk0MyIsInB1ciI6ImJsb2JfaWQifX0=--257f706bc25c372114b1f6e80ea360a12e657310/vignette_50ans.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/09i45no64wilmyyi12bvm87ztig1
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIyYzk2NjJjLTZjMGQtNGFiYS1hOGNlLWM3ZjMyZWE0YTk0MyIsInB1ciI6ImJsb2JfaWQifX0=--b5c10cb712cc2975b618c2d71e0d5a341a80ed52/vignette_50ans.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/09i45no64wilmyyi12bvm87ztig1
 

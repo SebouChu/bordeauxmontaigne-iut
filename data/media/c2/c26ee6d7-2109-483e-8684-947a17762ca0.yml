@@ -5,6 +5,6 @@ width: 273
 height: 185
 ratio: 1.4756756756756757
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMyNmVlNmQ3LTIxMDktNDgzZS04Njg0LTk0N2ExNzc2MmNhMCIsInB1ciI6ImJsb2JfaWQifX0=--e8c33ac627fe5d5a78536786059952d6f334df74/vacances-toussaint.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/vlr21iyt81xkg4v2yyfxapbiqz9h
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMyNmVlNmQ3LTIxMDktNDgzZS04Njg0LTk0N2ExNzc2MmNhMCIsInB1ciI6ImJsb2JfaWQifX0=--766839932b693bbf66ff7435dcda893fd5990098/vacances-toussaint.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/vlr21iyt81xkg4v2yyfxapbiqz9h
 

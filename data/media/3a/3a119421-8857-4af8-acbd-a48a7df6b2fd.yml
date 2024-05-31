@@ -5,6 +5,6 @@ width: 300
 height: 211
 ratio: 1.4218009478672986
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNhMTE5NDIxLTg4NTctNGFmOC1hY2JkLWE0OGE3ZGY2YjJmZCIsInB1ciI6ImJsb2JfaWQifX0=--8dee5147c34a017eabb3dcb7683c800c5848b9f3/LOGO-LIVRE-VERT1-300x211.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/2mgc1xits0wy6oyea1dv772jpbvk
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNhMTE5NDIxLTg4NTctNGFmOC1hY2JkLWE0OGE3ZGY2YjJmZCIsInB1ciI6ImJsb2JfaWQifX0=--95e40f45379098936f6edb03ec3a820f48296e11/LOGO-LIVRE-VERT1-300x211.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2mgc1xits0wy6oyea1dv772jpbvk
 
