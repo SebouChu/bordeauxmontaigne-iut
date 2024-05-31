@@ -5,6 +5,6 @@ width: 960
 height: 460
 ratio: 2.0869565217391304
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmZTZhNDU1LTMyZjMtNGQ1YS04MjY2LWNkZjc3MGM5YjA5YSIsInB1ciI6ImJsb2JfaWQifX0=--c213dff4f341f4540398916ae7418415b9475779/Aide_200euris_u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/g8mzwsw8g88telwjn36g8dl48ban
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmZTZhNDU1LTMyZjMtNGQ1YS04MjY2LWNkZjc3MGM5YjA5YSIsInB1ciI6ImJsb2JfaWQifX0=--47fcdc1cf94b0c4b9eb949f4c13ff2765905275b/Aide_200euris_u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/g8mzwsw8g88telwjn36g8dl48ban
 

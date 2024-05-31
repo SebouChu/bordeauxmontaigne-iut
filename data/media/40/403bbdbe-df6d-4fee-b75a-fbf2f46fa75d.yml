@@ -5,6 +5,6 @@ width: 150
 height: 150
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQwM2JiZGJlLWRmNmQtNGZlZS1iNzVhLWZiZjJmNDZmYTc1ZCIsInB1ciI6ImJsb2JfaWQifX0=--f6f827068c39201379ccd819c518053f66a711a9/parisdescartes70002s03session03-730x412_q85_crop-scale-e1487319668692-150x150.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/x4s73ogiveso8ito34br4as3r22t
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQwM2JiZGJlLWRmNmQtNGZlZS1iNzVhLWZiZjJmNDZmYTc1ZCIsInB1ciI6ImJsb2JfaWQifX0=--575ef80333a369f6e3060fe3713c126e547b5a13/parisdescartes70002s03session03-730x412_q85_crop-scale-e1487319668692-150x150.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x4s73ogiveso8ito34br4as3r22t
 
