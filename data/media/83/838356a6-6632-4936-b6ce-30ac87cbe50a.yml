@@ -5,6 +5,6 @@ width: 561
 height: 153
 ratio: 3.6666666666666665
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgzODM1NmE2LTY2MzItNDkzNi1iNmNlLTMwYWM4N2NiZTUwYSIsInB1ciI6ImJsb2JfaWQifX0=--c91ce9f065d4a5fe7b03f57ebbea9a436bd75a0a/IUT-LOGO-SOLO.svg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ocoxftz5zzkcs12s5snjo995g175
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgzODM1NmE2LTY2MzItNDkzNi1iNmNlLTMwYWM4N2NiZTUwYSIsInB1ciI6ImJsb2JfaWQifX0=--3539b80fcb09ab428e1ecaa8eaa61c45b7c7e973/IUT-LOGO-SOLO.svg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ocoxftz5zzkcs12s5snjo995g175
 

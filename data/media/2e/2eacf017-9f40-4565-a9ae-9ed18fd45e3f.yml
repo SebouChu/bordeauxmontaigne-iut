@@ -5,6 +5,6 @@ width: 200
 height: 300
 ratio: 0.6666666666666666
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJlYWNmMDE3LTlmNDAtNDU2NS1hOWFlLTllZDE4ZmQ0NWUzZiIsInB1ciI6ImJsb2JfaWQifX0=--1e46d5deeb96bb0571f28e579e4822e0e010c243/hamman-200x300.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/el9g369a8a1y6tpbpt6dirdle8bv
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJlYWNmMDE3LTlmNDAtNDU2NS1hOWFlLTllZDE4ZmQ0NWUzZiIsInB1ciI6ImJsb2JfaWQifX0=--83ac1b0d4c0994e943017d79e1d8814d34cc7727/hamman-200x300.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/el9g369a8a1y6tpbpt6dirdle8bv
 

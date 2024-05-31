@@ -5,6 +5,6 @@ width: 300
 height: 200
 ratio: 1.5
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxOTY0ZThlLTc5YmYtNDg2YS1hYTkyLWQ2MzIzYTJkM2YyYyIsInB1ciI6ImJsb2JfaWQifX0=--234ca1ac0b451bb6148336d9432e00ff3cd5389b/culture-300x200.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/uvvfnkonm4f3t7fbv3k6gv46mrq2
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxOTY0ZThlLTc5YmYtNDg2YS1hYTkyLWQ2MzIzYTJkM2YyYyIsInB1ciI6ImJsb2JfaWQifX0=--25ef5438928cb217e88efd8b53387dba7074e374/culture-300x200.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/uvvfnkonm4f3t7fbv3k6gv46mrq2
 
