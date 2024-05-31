@@ -5,6 +5,6 @@ width: 1752
 height: 918
 ratio: 1.908496732026144
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZhZGQyZDgxLWQ4ZTgtNDMxNy1iNTEyLWM3OGMyZDNlMWZkMCIsInB1ciI6ImJsb2JfaWQifX0=--c7957c0c70d5d8e85c7f7f8188dc26f059d096dc/brooke-cagle-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/qm5pj9tp9ubob3jwhdb8gjs7ey30
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZhZGQyZDgxLWQ4ZTgtNDMxNy1iNTEyLWM3OGMyZDNlMWZkMCIsInB1ciI6ImJsb2JfaWQifX0=--d47f3a0a011bd49c252a8262fae624ecd598c8cb/brooke-cagle-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qm5pj9tp9ubob3jwhdb8gjs7ey30
 

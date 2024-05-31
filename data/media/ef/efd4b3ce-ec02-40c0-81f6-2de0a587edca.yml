@@ -5,6 +5,6 @@ width: 1752
 height: 918
 ratio: 1.908496732026144
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVmZDRiM2NlLWVjMDItNDBjMC04MWY2LTJkZTBhNTg3ZWRjYSIsInB1ciI6ImJsb2JfaWQifX0=--0a56cc78b9d529a4f4200e85a42ab786c379587f/martino-pietropoli-VSo5d9wlT7s-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/skl77tarzd3bz6qgfb1sju8zgk01
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVmZDRiM2NlLWVjMDItNDBjMC04MWY2LTJkZTBhNTg3ZWRjYSIsInB1ciI6ImJsb2JfaWQifX0=--ee4ff8b7bc7d7950e9ce7781b2f4d6164c163eea/martino-pietropoli-VSo5d9wlT7s-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/skl77tarzd3bz6qgfb1sju8zgk01
 

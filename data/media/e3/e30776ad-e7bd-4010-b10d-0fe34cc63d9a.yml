@@ -5,6 +5,6 @@ width: 1320
 height: 480
 ratio: 2.75
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUzMDc3NmFkLWU3YmQtNDAxMC1iMTBkLTBmZTM0Y2M2M2Q5YSIsInB1ciI6ImJsb2JfaWQifX0=--119d3f521a96fe870949b2a6f3356436e9a61a63/andrew-neel-cckf4TsHAuw-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/9dqcofoaznb2xnr5zjfdyv8viy30
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUzMDc3NmFkLWU3YmQtNDAxMC1iMTBkLTBmZTM0Y2M2M2Q5YSIsInB1ciI6ImJsb2JfaWQifX0=--912b6d463b84c397075a39ab59bd316d0ad2df8b/andrew-neel-cckf4TsHAuw-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9dqcofoaznb2xnr5zjfdyv8viy30
 
