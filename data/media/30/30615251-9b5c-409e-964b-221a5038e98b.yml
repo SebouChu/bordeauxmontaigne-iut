@@ -5,6 +5,6 @@ width: 960
 height: 460
 ratio: 2.0869565217391304
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMwNjE1MjUxLTliNWMtNDA5ZS05NjRiLTIyMWE1MDM4ZTk4YiIsInB1ciI6ImJsb2JfaWQifX0=--2f0319ac538f55c55f77c42077b73aee162f15a6/2023-logement-ri-u-bordeaux-montaigne_max460x960.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/h41mintiyoef3g01vftte4yp47ps
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMwNjE1MjUxLTliNWMtNDA5ZS05NjRiLTIyMWE1MDM4ZTk4YiIsInB1ciI6ImJsb2JfaWQifX0=--b73166bb1f958f99ee66a91a5849e0f97fabbbc3/2023-logement-ri-u-bordeaux-montaigne_max460x960.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/h41mintiyoef3g01vftte4yp47ps
 
