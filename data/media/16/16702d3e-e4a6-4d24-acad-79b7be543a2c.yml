@@ -5,6 +5,6 @@ width: 300
 height: 212
 ratio: 1.4150943396226414
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE2NzAyZDNlLWU0YTYtNGQyNC1hY2FkLTc5YjdiZTU0M2EyYyIsInB1ciI6ImJsb2JfaWQifX0=--6b747c205ce3959bef92b92192ce018c1c4d3273/affichetteCALAIS-300x212.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/l6bfqlcpq4np1kobo5f79yzayahh
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE2NzAyZDNlLWU0YTYtNGQyNC1hY2FkLTc5YjdiZTU0M2EyYyIsInB1ciI6ImJsb2JfaWQifX0=--c9816542977df14071f92a3110ceee7e5de3a325/affichetteCALAIS-300x212.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/l6bfqlcpq4np1kobo5f79yzayahh
 

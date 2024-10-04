@@ -5,6 +5,6 @@ width: 1200
 height: 1698
 ratio: 0.7067137809187279
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA3OTY5NWI3LWY5ZDItNDliOS1hYWY0LWZiYjFkYWQ5NDdhZSIsInB1ciI6ImJsb2JfaWQifX0=--f97b740a4121af48acb764c041da8c4d0a4fe41b/Affiche-matinale.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/2hy0klekhrbbbzs4xorirtt58z0n
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA3OTY5NWI3LWY5ZDItNDliOS1hYWY0LWZiYjFkYWQ5NDdhZSIsInB1ciI6ImJsb2JfaWQifX0=--847b344b30c49ef5848f28c3f3199a32632db39e/Affiche-matinale.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2hy0klekhrbbbzs4xorirtt58z0n
 

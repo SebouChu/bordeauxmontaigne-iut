@@ -5,6 +5,6 @@ width: 960
 height: 460
 ratio: 2.0869565217391304
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIwMjRhZmVjLTE0NzUtNGNjZi04YzU5LTMyYmJlOTRkM2VkMSIsInB1ciI6ImJsb2JfaWQifX0=--a8e01c25cd57029f5bcb4a78ef7da562bdef1ca7/distri-cuvee-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/sx5acjzy0b158g3h1heky9zhq3qs
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIwMjRhZmVjLTE0NzUtNGNjZi04YzU5LTMyYmJlOTRkM2VkMSIsInB1ciI6ImJsb2JfaWQifX0=--4892f66128695db9763d2d1c1b233d91aff72cda/distri-cuvee-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/sx5acjzy0b158g3h1heky9zhq3qs
 
