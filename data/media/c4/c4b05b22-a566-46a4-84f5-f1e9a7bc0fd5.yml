@@ -5,6 +5,6 @@ width: 2500
 height: 1667
 ratio: 1.4997000599880024
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM0YjA1YjIyLWE1NjYtNDZhNC04NGY1LWYxZTlhN2JjMGZkNSIsInB1ciI6ImJsb2JfaWQifX0=--a9a012bf286e5291620b7fd0849ea29e65d71f0b/16092011-IMG_9745.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/x4r4umctqx4vtk176iy67ueqkuju
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM0YjA1YjIyLWE1NjYtNDZhNC04NGY1LWYxZTlhN2JjMGZkNSIsInB1ciI6ImJsb2JfaWQifX0=--efa5bbf97e0a38edd6638eb6a71b0367b94bfd43/16092011-IMG_9745.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x4r4umctqx4vtk176iy67ueqkuju
 
