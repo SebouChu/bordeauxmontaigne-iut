@@ -5,6 +5,6 @@ width: 213
 height: 300
 ratio: 0.71
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZjZjJiMjM4LWZiNTMtNDJmYy1iMGI3LTYyYzhmZmJjNTcyYyIsInB1ciI6ImJsb2JfaWQifX0=--b70464fbf21a9781911604a808d2efa298551046/affiche-finale-213x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/tsj9j0uh0kffm1rvkrrpk72fy1vt
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZjZjJiMjM4LWZiNTMtNDJmYy1iMGI3LTYyYzhmZmJjNTcyYyIsInB1ciI6ImJsb2JfaWQifX0=--67bae6df75b162e1c0923d28d88de7deb41f6eef/affiche-finale-213x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/tsj9j0uh0kffm1rvkrrpk72fy1vt
 

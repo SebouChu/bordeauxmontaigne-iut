@@ -5,6 +5,6 @@ width: 600
 height: 849
 ratio: 0.7067137809187279
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwZGYzNzVlLWI0MWYtNDdhNy1iNDdhLWI1MDNlZjFkYzlkZSIsInB1ciI6ImJsb2JfaWQifX0=--0e96b7ecb875aaa6779b4486e90da1702000ad4b/ELECTIONS-VOTE-ETUDIANTS.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/er8jokdr69d3q0p6l74d97br8t65
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwZGYzNzVlLWI0MWYtNDdhNy1iNDdhLWI1MDNlZjFkYzlkZSIsInB1ciI6ImJsb2JfaWQifX0=--1500fbcac78b4249c4e3d3fb683001e4e6e063be/ELECTIONS-VOTE-ETUDIANTS.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/er8jokdr69d3q0p6l74d97br8t65
 

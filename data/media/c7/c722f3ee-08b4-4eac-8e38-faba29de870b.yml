@@ -5,6 +5,6 @@ width: 212
 height: 300
 ratio: 0.7066666666666667
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM3MjJmM2VlLTA4YjQtNGVhYy04ZTM4LWZhYmEyOWRlODcwYiIsInB1ciI6ImJsb2JfaWQifX0=--65258479d10a7eedaa984f23c1d858caf0d0f10d/Affiche-finie1-212x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/bx2rsz6g1fhcod2f6gtmeot1jjf0
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM3MjJmM2VlLTA4YjQtNGVhYy04ZTM4LWZhYmEyOWRlODcwYiIsInB1ciI6ImJsb2JfaWQifX0=--3cf7e986f8c06486e01b5dcd47ae516d77f661db/Affiche-finie1-212x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bx2rsz6g1fhcod2f6gtmeot1jjf0
 

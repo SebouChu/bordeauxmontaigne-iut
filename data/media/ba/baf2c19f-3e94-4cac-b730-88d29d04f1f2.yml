@@ -5,6 +5,6 @@ width: 300
 height: 169
 ratio: 1.7751479289940828
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhZjJjMTlmLTNlOTQtNGNhYy1iNzMwLTg4ZDI5ZDA0ZjFmMiIsInB1ciI6ImJsb2JfaWQifX0=--67532cbff0a220ce9031ad8ce32985efd9ea7d51/joansfar-via-Instagram-300x169.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/bc0wmtcevdwb2plchpa325wgighq
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhZjJjMTlmLTNlOTQtNGNhYy1iNzMwLTg4ZDI5ZDA0ZjFmMiIsInB1ciI6ImJsb2JfaWQifX0=--ef3f1924c780f244f1c5358c1371a8c18d67d2bb/joansfar-via-Instagram-300x169.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bc0wmtcevdwb2plchpa325wgighq
 

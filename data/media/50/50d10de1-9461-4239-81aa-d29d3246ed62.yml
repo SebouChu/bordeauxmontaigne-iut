@@ -5,6 +5,6 @@ width: 212
 height: 300
 ratio: 0.7066666666666667
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwZDEwZGUxLTk0NjEtNDIzOS04MWFhLWQyOWQzMjQ2ZWQ2MiIsInB1ciI6ImJsb2JfaWQifX0=--e858582fb7bef5e0c69afe6086530bea958b11ad/LAROUI-Fouad_04-212x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/0p6w2f07b43oyhkh2oqruttxjiti
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwZDEwZGUxLTk0NjEtNDIzOS04MWFhLWQyOWQzMjQ2ZWQ2MiIsInB1ciI6ImJsb2JfaWQifX0=--b520107756f92cc0fd737b3b18e08bde12d3e274/LAROUI-Fouad_04-212x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/0p6w2f07b43oyhkh2oqruttxjiti
 

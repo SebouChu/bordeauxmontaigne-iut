@@ -5,6 +5,6 @@ width: 243
 height: 300
 ratio: 0.81
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYyZDFhMWI3LTNlY2QtNDZmMS1iZjA2LWY1NGNiODliNzNjMyIsInB1ciI6ImJsb2JfaWQifX0=--be5205cc7a97443bdd933eae4549394ac7e40298/castro-php_-243x300.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/4c7dppckbkc6h9815pdt6gw55wh0
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYyZDFhMWI3LTNlY2QtNDZmMS1iZjA2LWY1NGNiODliNzNjMyIsInB1ciI6ImJsb2JfaWQifX0=--f493ba89e2ce459de5833cb5c38e26197195ae0c/castro-php_-243x300.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4c7dppckbkc6h9815pdt6gw55wh0
 

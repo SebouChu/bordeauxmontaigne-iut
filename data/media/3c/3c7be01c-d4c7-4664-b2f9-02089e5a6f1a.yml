@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNjN2JlMDFjLWQ0YzctNDY2NC1iMmY5LTAyMDg5ZTVhNmYxYSIsInB1ciI6ImJsb2JfaWQifX0=--8b87103c31f5407e16eacefa7340ed2b4cce9cb0/2-laura-mancini-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/xtt8enbv0wngralvg4nbbwbb2e4z
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNjN2JlMDFjLWQ0YzctNDY2NC1iMmY5LTAyMDg5ZTVhNmYxYSIsInB1ciI6ImJsb2JfaWQifX0=--02d8fdc25c5815973c909e0d7f2a5d79ef21c40f/2-laura-mancini-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xtt8enbv0wngralvg4nbbwbb2e4z
 

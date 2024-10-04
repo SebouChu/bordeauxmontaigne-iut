@@ -5,6 +5,6 @@ width: 275
 height: 183
 ratio: 1.5027322404371584
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhZWNkOWQyLTM3MWEtNGU3Mi1hNTQzLTY1MDU5MDMxODY2NSIsInB1ciI6ImJsb2JfaWQifX0=--6e2163e190e46c4eafed8ac60c8a16d04d1ab4e8/toussaint2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/34bwx6dkh47vfb7i2om5ja0ny23g
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhZWNkOWQyLTM3MWEtNGU3Mi1hNTQzLTY1MDU5MDMxODY2NSIsInB1ciI6ImJsb2JfaWQifX0=--143cb154722b2debcf95620bdd0424fd9dc5f756/toussaint2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/34bwx6dkh47vfb7i2om5ja0ny23g
 
