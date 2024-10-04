@@ -5,6 +5,6 @@ width: 1752
 height: 918
 ratio: 1.908496732026144
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjZDU1YzNlLTRjMTItNGFiNS04MTMzLWQ4OWRhMGQwNmFiZiIsInB1ciI6ImJsb2JfaWQifX0=--012b467a7aac09ecd3f259b791ccafca7167a495/stanislav-staritsyn-j7cOdWrbKUI-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ptloxlheo24u8sobl4fh273l3bb4
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjZDU1YzNlLTRjMTItNGFiNS04MTMzLWQ4OWRhMGQwNmFiZiIsInB1ciI6ImJsb2JfaWQifX0=--d504f93c3fc798a34ead887a5a7c5e379216c6c9/stanislav-staritsyn-j7cOdWrbKUI-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ptloxlheo24u8sobl4fh273l3bb4
 
