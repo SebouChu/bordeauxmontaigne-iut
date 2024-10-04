@@ -5,6 +5,6 @@ width: 173
 height: 300
 ratio: 0.5766666666666667
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5MzFiZTFmLWIwNWEtNGQ3NC1iOTJjLTRiOTZkYWNiMTdlZiIsInB1ciI6ImJsb2JfaWQifX0=--945d79fcaae5aaddae001f9c7fde435328c2b35a/bergounioux-173x300.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/1m2jvyimdt6r7vygvgwtrtw4f435
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5MzFiZTFmLWIwNWEtNGQ3NC1iOTJjLTRiOTZkYWNiMTdlZiIsInB1ciI6ImJsb2JfaWQifX0=--2b660cd986d61a12c2727f60024fc91dd88d0f3f/bergounioux-173x300.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/1m2jvyimdt6r7vygvgwtrtw4f435
 

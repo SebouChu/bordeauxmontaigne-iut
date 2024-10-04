@@ -5,6 +5,6 @@ width: 211
 height: 300
 ratio: 0.7033333333333334
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZkMDExNGI5LWI3ZTEtNDM0OC04MWIyLTdhMjBjNjNjNTRjNSIsInB1ciI6ImJsb2JfaWQifX0=--b5d39a22315ecd9eb297c235f8434696d43baf3c/Sammy-211x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/7ig59b70fqvfmj0s0h6hc4me9ecm
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZkMDExNGI5LWI3ZTEtNDM0OC04MWIyLTdhMjBjNjNjNTRjNSIsInB1ciI6ImJsb2JfaWQifX0=--6405712979ea6a9f318c3fd58bc85342c7ee93e4/Sammy-211x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/7ig59b70fqvfmj0s0h6hc4me9ecm
 

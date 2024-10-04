@@ -5,6 +5,6 @@ width: 300
 height: 212
 ratio: 1.4150943396226414
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFkYmJjMWQ5LWU4ZDQtNDdmMi1iZWU0LTg3NzNmZmIzMTUzYiIsInB1ciI6ImJsb2JfaWQifX0=--9b125bf7446794d6607371da12d0a06fbe3ce858/DVD-et-lecteurs-externes-300x212.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/c9pjatgqeomjn8oi1l16zbbebizx
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFkYmJjMWQ5LWU4ZDQtNDdmMi1iZWU0LTg3NzNmZmIzMTUzYiIsInB1ciI6ImJsb2JfaWQifX0=--f9b8dd3c2d1a462cf45ef880495fe81dbd48d1a7/DVD-et-lecteurs-externes-300x212.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/c9pjatgqeomjn8oi1l16zbbebizx
 
