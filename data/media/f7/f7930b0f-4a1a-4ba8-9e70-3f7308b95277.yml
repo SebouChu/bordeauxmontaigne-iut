@@ -5,6 +5,6 @@ width: 1320
 height: 480
 ratio: 2.75
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY3OTMwYjBmLTRhMWEtNGJhOC05ZTcwLTNmNzMwOGI5NTI3NyIsInB1ciI6ImJsb2JfaWQifX0=--cb6d7257a658a9de43c0bc3080f82bde2f12f1be/jason-goodman-Oalh2MojUuk-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/04pg3gpk9esci996td5u6bgd8vr0
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY3OTMwYjBmLTRhMWEtNGJhOC05ZTcwLTNmNzMwOGI5NTI3NyIsInB1ciI6ImJsb2JfaWQifX0=--e6f30c1bcc3f21690a420abfaf70a54f4380d7ad/jason-goodman-Oalh2MojUuk-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/04pg3gpk9esci996td5u6bgd8vr0
 

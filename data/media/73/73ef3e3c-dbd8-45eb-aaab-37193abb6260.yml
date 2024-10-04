@@ -5,6 +5,6 @@ width: 566
 height: 800
 ratio: 0.7075
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjczZWYzZTNjLWRiZDgtNDVlYi1hYWFiLTM3MTkzYWJiNjI2MCIsInB1ciI6ImJsb2JfaWQifX0=--7d4f8383539f5c24c0900a77a16574727d487019/Le-jeu-dans-le-je.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/p149s13uw7gxm08pd4rp4pxnjpya
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjczZWYzZTNjLWRiZDgtNDVlYi1hYWFiLTM3MTkzYWJiNjI2MCIsInB1ciI6ImJsb2JfaWQifX0=--ea4284f211c6f62823a197ddd15d3c94702b5db6/Le-jeu-dans-le-je.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/p149s13uw7gxm08pd4rp4pxnjpya
 

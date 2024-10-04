@@ -5,6 +5,6 @@ width: 566
 height: 800
 ratio: 0.7075
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhYTg1Y2MxLTBkYjctNGNiNS05ZTY1LTRmNjRjNDE4OGJiZCIsInB1ciI6ImJsb2JfaWQifX0=--f912d52232de5120fa962a7928cf98b13ad8cd8c/rencontres-pro-Ludo-2018.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/4x05qannirl3n0ccfbjt3flqnh5q
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhYTg1Y2MxLTBkYjctNGNiNS05ZTY1LTRmNjRjNDE4OGJiZCIsInB1ciI6ImJsb2JfaWQifX0=--52187c6be6ff961950ec0fce4f9600324f4b120a/rencontres-pro-Ludo-2018.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4x05qannirl3n0ccfbjt3flqnh5q
 

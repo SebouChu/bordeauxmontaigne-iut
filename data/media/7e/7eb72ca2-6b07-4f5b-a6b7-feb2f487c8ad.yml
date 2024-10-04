@@ -5,6 +5,6 @@ width: 199
 height: 300
 ratio: 0.6633333333333333
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlYjcyY2EyLTZiMDctNGY1Yi1hNmI3LWZlYjJmNDg3YzhhZCIsInB1ciI6ImJsb2JfaWQifX0=--5ebe33a7a11707ce6f53065657abc82c52acc940/deboeck-199x300.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/ky6pqdc061iubdh667m9rne7t4ga
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlYjcyY2EyLTZiMDctNGY1Yi1hNmI3LWZlYjJmNDg3YzhhZCIsInB1ciI6ImJsb2JfaWQifX0=--5503501b37fd00fb0cbfb628edfe565575ea19ec/deboeck-199x300.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ky6pqdc061iubdh667m9rne7t4ga
 

@@ -5,6 +5,6 @@ width: 210
 height: 300
 ratio: 0.7
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhjNDZkOWMyLWFmMDktNDdlNS1iNWMwLTIyNTMxNjk0NzBlYSIsInB1ciI6ImJsb2JfaWQifX0=--37b24b096a141e806e85b6e44da1d2613ff2725c/appel-au-vote-1-210x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/24tvi710ymmyimjxu56nvvqwhv4p
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhjNDZkOWMyLWFmMDktNDdlNS1iNWMwLTIyNTMxNjk0NzBlYSIsInB1ciI6ImJsb2JfaWQifX0=--fcf5da94e000924301d8bc54b795b01e40938d25/appel-au-vote-1-210x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/24tvi710ymmyimjxu56nvvqwhv4p
 
