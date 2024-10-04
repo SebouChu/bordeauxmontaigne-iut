@@ -5,6 +5,6 @@ width: 1752
 height: 918
 ratio: 1.908496732026144
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4ODJlNTY5LWM2YmItNDFjNy05ZjU4LTczODBlZTZjODEwYyIsInB1ciI6ImJsb2JfaWQifX0=--f5bac26727ed6f05a1e8b0ab1b010a61266f0b99/avel-chuklanov-DUmFLtMeAbQ-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/45ux4q8ta6vaen2kxg629oustks0
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4ODJlNTY5LWM2YmItNDFjNy05ZjU4LTczODBlZTZjODEwYyIsInB1ciI6ImJsb2JfaWQifX0=--cc1ba93d5a2a699bc0e06012fece966876d3487e/avel-chuklanov-DUmFLtMeAbQ-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/45ux4q8ta6vaen2kxg629oustks0
 

@@ -5,6 +5,6 @@ width: 1320
 height: 480
 ratio: 2.75
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ0MzdiYWM1LTk1YWItNDBjMS1iODYzLTQ3MDBmNDZiMzEyMSIsInB1ciI6ImJsb2JfaWQifX0=--75d57ff0ced3242861a515b3dbde54e6c35d8ff6/jamie-taylor-9C3TMXwQjQ-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/fvdvpmaq9aynqvukesaisapat0tk
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ0MzdiYWM1LTk1YWItNDBjMS1iODYzLTQ3MDBmNDZiMzEyMSIsInB1ciI6ImJsb2JfaWQifX0=--073101e835562001c4a5636d954ff7707f8e46af/jamie-taylor-9C3TMXwQjQ-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/fvdvpmaq9aynqvukesaisapat0tk
 

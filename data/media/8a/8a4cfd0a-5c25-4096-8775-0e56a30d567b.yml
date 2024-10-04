@@ -5,6 +5,6 @@ width: 1320
 height: 480
 ratio: 2.75
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhNGNmZDBhLTVjMjUtNDA5Ni04Nzc1LTBlNTZhMzBkNTY3YiIsInB1ciI6ImJsb2JfaWQifX0=--b83a3e6f5c9fdc1c64e95a673eed123fed1eaac0/ODF-master-IAT.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/t6ty880thmbe1a0ff4bm1x66hjts
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhNGNmZDBhLTVjMjUtNDA5Ni04Nzc1LTBlNTZhMzBkNTY3YiIsInB1ciI6ImJsb2JfaWQifX0=--11c82a8331cd8743075898222d711b1a1d1edb4d/ODF-master-IAT.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/t6ty880thmbe1a0ff4bm1x66hjts
 

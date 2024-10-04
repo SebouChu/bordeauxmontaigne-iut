@@ -5,6 +5,6 @@ width: 1240
 height: 1333
 ratio: 0.9302325581395349
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRjZDkyNjEzLTkyNjItNDBjNC05ZGQyLTE5YjlkMDFhODcwOSIsInB1ciI6ImJsb2JfaWQifX0=--208805d06767b4c70cb4c904e865b391673e6c31/Visuel_Conference_Chargee-de-diffusion.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/rnk9fw1sdzhaduikr6y6wq2zedcp
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRjZDkyNjEzLTkyNjItNDBjNC05ZGQyLTE5YjlkMDFhODcwOSIsInB1ciI6ImJsb2JfaWQifX0=--6121358a711da9825183b7e4c6ab8f1e40d09aa8/Visuel_Conference_Chargee-de-diffusion.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/rnk9fw1sdzhaduikr6y6wq2zedcp
 
