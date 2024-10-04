@@ -5,6 +5,6 @@ width: 250
 height: 173
 ratio: 1.4450867052023122
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE2NDY0NGNmLTBjNGMtNDFjYS1hODIxLTI4ZjgyNzZiNDYzYSIsInB1ciI6ImJsb2JfaWQifX0=--9ee053133464a1fa471d5687f398fee1a11ae06c/Cadavres-rabat-u-bordeaux-montaigne_173x250.PNG
-direct_url: https://osuny.s3.fr-par.scw.cloud/oukl7isebadgawx4g3tt0oi21ajg
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE2NDY0NGNmLTBjNGMtNDFjYS1hODIxLTI4ZjgyNzZiNDYzYSIsInB1ciI6ImJsb2JfaWQifX0=--c94e81ffdc1c1753f5b3d3abb6924363fec122ce/Cadavres-rabat-u-bordeaux-montaigne_173x250.PNG
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/oukl7isebadgawx4g3tt0oi21ajg
 

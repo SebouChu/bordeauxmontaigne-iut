@@ -5,6 +5,6 @@ width: 1920
 height: 1357
 ratio: 1.414885777450258
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM3M2IyN2RjLThkODUtNDk4NS1hNzc1LWIzZTFiOTBjNzQwZCIsInB1ciI6ImJsb2JfaWQifX0=--81b58d207ba07135f3374113bc20f275acc428f2/seminaire-comedia-2023.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/l7t5nov4rymrfahfwmmtpitndif2
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM3M2IyN2RjLThkODUtNDk4NS1hNzc1LWIzZTFiOTBjNzQwZCIsInB1ciI6ImJsb2JfaWQifX0=--5e50126768d3dcae4f1abe2010f6f9160450bb3e/seminaire-comedia-2023.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/l7t5nov4rymrfahfwmmtpitndif2
 

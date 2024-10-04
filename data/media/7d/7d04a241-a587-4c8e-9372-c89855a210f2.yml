@@ -5,6 +5,6 @@ width: 664
 height: 1024
 ratio: 0.6484375
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdkMDRhMjQxLWE1ODctNGM4ZS05MzcyLWM4OTg1NWEyMTBmMiIsInB1ciI6ImJsb2JfaWQifX0=--4316793165df283edd714e4bdb5d56abd0837879/club-toques-apprentie-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/710gc5z2brnyy4b08d3t9rg3h6ms
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdkMDRhMjQxLWE1ODctNGM4ZS05MzcyLWM4OTg1NWEyMTBmMiIsInB1ciI6ImJsb2JfaWQifX0=--5662b6f243310a31d8b0f81babc917d09d90f269/club-toques-apprentie-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/710gc5z2brnyy4b08d3t9rg3h6ms
 

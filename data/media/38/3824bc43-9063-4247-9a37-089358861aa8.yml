@@ -2,6 +2,6 @@
 name: image-moisdudoc2014-hd.jpg?w=212
 size: 1377
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM4MjRiYzQzLTkwNjMtNDI0Ny05YTM3LTA4OTM1ODg2MWFhOCIsInB1ciI6ImJsb2JfaWQifX0=--94968055ea95e61bfbd23793ffed171e691e96dd/image-moisdudoc2014-hd.jpg%3Fw=212
-direct_url: https://osuny.s3.fr-par.scw.cloud/1wewvdp3x2igcgo2wonsno0hsyla
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM4MjRiYzQzLTkwNjMtNDI0Ny05YTM3LTA4OTM1ODg2MWFhOCIsInB1ciI6ImJsb2JfaWQifX0=--a0d31cee904ace1e41bf4d3feac39fea3c995e74/image-moisdudoc2014-hd.jpg%3Fw=212
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/1wewvdp3x2igcgo2wonsno0hsyla
 
