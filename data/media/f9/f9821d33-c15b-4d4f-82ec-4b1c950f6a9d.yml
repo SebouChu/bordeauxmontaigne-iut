@@ -5,6 +5,6 @@ width: 299
 height: 475
 ratio: 0.6294736842105263
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY5ODIxZDMzLWMxNWItNGQ0Zi04MmVjLTRiMWM5NTBmNmE5ZCIsInB1ciI6ImJsb2JfaWQifX0=--41135e1362f010432337e74c18d73660693d8305/moreira.gif
-direct_url: https://osuny.s3.fr-par.scw.cloud/s4837z0jq30ccygyk3jcrschxhig
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY5ODIxZDMzLWMxNWItNGQ0Zi04MmVjLTRiMWM5NTBmNmE5ZCIsInB1ciI6ImJsb2JfaWQifX0=--7baac5323c4d929b521c700ba59cd26edcf7712e/moreira.gif
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/s4837z0jq30ccygyk3jcrschxhig
 

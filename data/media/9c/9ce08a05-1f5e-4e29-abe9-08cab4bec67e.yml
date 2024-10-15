@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjljZTA4YTA1LTFmNWUtNGUyOS1hYmU5LTA4Y2FiNGJlYzY3ZSIsInB1ciI6ImJsb2JfaWQifX0=--17915b157350b50db2eae8cbd3b46b479bcf081b/1-douglas-kennedy-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/pvti7caghnmdusj6ctonyfaic5x1
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjljZTA4YTA1LTFmNWUtNGUyOS1hYmU5LTA4Y2FiNGJlYzY3ZSIsInB1ciI6ImJsb2JfaWQifX0=--c526873e9552ede34b552f002b90f821e0c9e199/1-douglas-kennedy-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/pvti7caghnmdusj6ctonyfaic5x1
 
