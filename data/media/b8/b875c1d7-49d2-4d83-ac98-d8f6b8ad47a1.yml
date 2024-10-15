@@ -5,6 +5,6 @@ width: 750
 height: 1000
 ratio: 0.75
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4NzVjMWQ3LTQ5ZDItNGQ4My1hYzk4LWQ4ZjZiOGFkNDdhMSIsInB1ciI6ImJsb2JfaWQifX0=--cc494ecbb9ff9c55897dc00367bcf53b1ac572c9/chasseur-chagrin-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/9vnzqkrydbjz4174uv45srpo6u9k
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4NzVjMWQ3LTQ5ZDItNGQ4My1hYzk4LWQ4ZjZiOGFkNDdhMSIsInB1ciI6ImJsb2JfaWQifX0=--0c9936eed255e9cbe3d84fee1c6aadedd0e542f2/chasseur-chagrin-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9vnzqkrydbjz4174uv45srpo6u9k
 

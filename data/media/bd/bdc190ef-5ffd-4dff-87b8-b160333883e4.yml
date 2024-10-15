@@ -5,6 +5,6 @@ width: 646
 height: 900
 ratio: 0.7177777777777777
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJkYzE5MGVmLTVmZmQtNGRmZi04N2I4LWIxNjAzMzM4ODNlNCIsInB1ciI6ImJsb2JfaWQifX0=--f26adafcfce3cd1c9e8d4758a161d086fe9cabff/rencontre-pro-recto.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/iiqtj75pucbv2w3slaiivpsa32fe
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJkYzE5MGVmLTVmZmQtNGRmZi04N2I4LWIxNjAzMzM4ODNlNCIsInB1ciI6ImJsb2JfaWQifX0=--3e6d32aba6713f4bf7ae252a8d5ada1e2d41f8cf/rencontre-pro-recto.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/iiqtj75pucbv2w3slaiivpsa32fe
 

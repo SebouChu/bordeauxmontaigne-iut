@@ -5,6 +5,6 @@ width: 3024
 height: 1574
 ratio: 1.9212198221092758
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZkM2M2ZDZhLTM5OTMtNDI1YS05M2ZiLWUyYTdhMWVlYzA2YyIsInB1ciI6ImJsb2JfaWQifX0=--e90021766a7d47475dbb7cc7d195e9f088c1091f/Visite-au-musee-des-Beaux-Arts-2_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/gr36z9ebwcdn42sjuxoxqt1kugbx
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZkM2M2ZDZhLTM5OTMtNDI1YS05M2ZiLWUyYTdhMWVlYzA2YyIsInB1ciI6ImJsb2JfaWQifX0=--fcfda61960a6d055d4900a39a52b3710671faa00/Visite-au-musee-des-Beaux-Arts-2_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/gr36z9ebwcdn42sjuxoxqt1kugbx
 

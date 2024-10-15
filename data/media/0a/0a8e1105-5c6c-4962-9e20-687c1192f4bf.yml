@@ -5,6 +5,6 @@ width: 300
 height: 150
 ratio: 2.0
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBhOGUxMTA1LTVjNmMtNDk2Mi05ZTIwLTY4N2MxMTkyZjRiZiIsInB1ciI6ImJsb2JfaWQifX0=--39c47d31aea52f527b5d92e40988fb23a3eaf46a/The-Bookseller-2-300x150.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/mqynr9cr1wvyww8r44aslxksaqco
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBhOGUxMTA1LTVjNmMtNDk2Mi05ZTIwLTY4N2MxMTkyZjRiZiIsInB1ciI6ImJsb2JfaWQifX0=--fdefdb860a4b968dd4ef6f5cac1e13ec585e71c5/The-Bookseller-2-300x150.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/mqynr9cr1wvyww8r44aslxksaqco
 

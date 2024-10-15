@@ -5,6 +5,6 @@ width: 665
 height: 1023
 ratio: 0.6500488758553274
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxOWYyNjA1LWIyYTAtNDgyOS04ODE1LWNhYzNhNDI2MTZlZiIsInB1ciI6ImJsb2JfaWQifX0=--ba07605c35ad81eb9768334ee5d0e6c64c7b0920/joug-apprentie-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/r2xf7uv24uj9mvuz2qe2bn5qe3ll
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxOWYyNjA1LWIyYTAtNDgyOS04ODE1LWNhYzNhNDI2MTZlZiIsInB1ciI6ImJsb2JfaWQifX0=--516c1a89c80bd9c3e6ef192bf04be5112890538a/joug-apprentie-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/r2xf7uv24uj9mvuz2qe2bn5qe3ll
 
