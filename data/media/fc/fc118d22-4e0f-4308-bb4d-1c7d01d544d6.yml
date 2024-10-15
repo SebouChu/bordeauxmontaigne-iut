@@ -5,6 +5,6 @@ width: 1250
 height: 835
 ratio: 1.4970059880239521
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjMTE4ZDIyLTRlMGYtNDMwOC1iYjRkLTFjN2QwMWQ1NDRkNiIsInB1ciI6ImJsb2JfaWQifX0=--5a81de136de789be9cb999f2abeb8b5f058eed92/plan_UBMontaigne_juillet24_A4.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/e05ghvol8e64f85k98u3vni5pnts
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjMTE4ZDIyLTRlMGYtNDMwOC1iYjRkLTFjN2QwMWQ1NDRkNiIsInB1ciI6ImJsb2JfaWQifX0=--2134840b93d46b97d9a6444b2d98face34da3aca/plan_UBMontaigne_juillet24_A4.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/e05ghvol8e64f85k98u3vni5pnts
 

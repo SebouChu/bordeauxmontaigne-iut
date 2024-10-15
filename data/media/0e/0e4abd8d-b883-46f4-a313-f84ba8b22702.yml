@@ -5,6 +5,6 @@ width: 960
 height: 460
 ratio: 2.0869565217391304
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlNGFiZDhkLWI4ODMtNDZmNC1hMzEzLWY4NGJhOGIyMjcwMiIsInB1ciI6ImJsb2JfaWQifX0=--a62915596acfebdeb61e812b4d4f67d86f91d7a3/atelier-culture-places-disponibles-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/p7l0uiofa4bah5298l5757vn88rp
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlNGFiZDhkLWI4ODMtNDZmNC1hMzEzLWY4NGJhOGIyMjcwMiIsInB1ciI6ImJsb2JfaWQifX0=--f7e3b98a80400798ae538d9b8f01aa63d91096c4/atelier-culture-places-disponibles-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/p7l0uiofa4bah5298l5757vn88rp
 
