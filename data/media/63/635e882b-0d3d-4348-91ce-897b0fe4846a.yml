@@ -5,6 +5,6 @@ width: 1320
 height: 480
 ratio: 2.75
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYzNWU4ODJiLTBkM2QtNDM0OC05MWNlLTg5N2IwZmU0ODQ2YSIsInB1ciI6ImJsb2JfaWQifX0=--d08db1d8e93656022baf3fc4b31ff260fb556002/becca-tapert-GnY_mW1Q6Xc-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/n680kemsdxqtuaj9n9ejr8w5tgl6
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYzNWU4ODJiLTBkM2QtNDM0OC05MWNlLTg5N2IwZmU0ODQ2YSIsInB1ciI6ImJsb2JfaWQifX0=--ae00ce4ff8ba38eac9e440f94ac44646d12df0c3/becca-tapert-GnY_mW1Q6Xc-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/n680kemsdxqtuaj9n9ejr8w5tgl6
 
