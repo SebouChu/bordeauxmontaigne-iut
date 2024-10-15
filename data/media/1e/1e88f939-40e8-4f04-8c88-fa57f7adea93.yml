@@ -5,6 +5,6 @@ width: 300
 height: 212
 ratio: 1.4150943396226414
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFlODhmOTM5LTQwZTgtNGYwNC04Yzg4LWZhNTdmN2FkZWE5MyIsInB1ciI6ImJsb2JfaWQifX0=--bb8a99a76156743e8385fb37a4e1be3d8a2e3d83/Affiche-vente-2018_02-300x212.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/7psl48xewopq0bc9x6h86vernw2j
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFlODhmOTM5LTQwZTgtNGYwNC04Yzg4LWZhNTdmN2FkZWE5MyIsInB1ciI6ImJsb2JfaWQifX0=--9fe881b3d696b387763fdb834002e674939d34eb/Affiche-vente-2018_02-300x212.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/7psl48xewopq0bc9x6h86vernw2j
 

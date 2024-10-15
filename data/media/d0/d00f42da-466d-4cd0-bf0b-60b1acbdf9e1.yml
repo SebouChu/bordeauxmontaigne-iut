@@ -5,6 +5,6 @@ width: 300
 height: 300
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwMGY0MmRhLTQ2NmQtNGNkMC1iZjBiLTYwYjFhY2JkZjllMSIsInB1ciI6ImJsb2JfaWQifX0=--ded922881a86d58e5eca119dcc229e4e0dffb650/rentree_2-300x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/b3shhwt2bh7byr3zeoi30chppzxo
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwMGY0MmRhLTQ2NmQtNGNkMC1iZjBiLTYwYjFhY2JkZjllMSIsInB1ciI6ImJsb2JfaWQifX0=--5acc94881ad3461c052b7f5cd8e1305500969faf/rentree_2-300x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/b3shhwt2bh7byr3zeoi30chppzxo
 
