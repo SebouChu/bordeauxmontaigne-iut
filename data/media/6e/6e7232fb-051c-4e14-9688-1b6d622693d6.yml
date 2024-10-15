@@ -5,6 +5,6 @@ width: 1654
 height: 2480
 ratio: 0.6669354838709678
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZlNzIzMmZiLTA1MWMtNGUxNC05Njg4LTFiNmQ2MjI2OTNkNiIsInB1ciI6ImJsb2JfaWQifX0=--c8acd46a3e59c6768ce5bd29f9c96979e897725f/couv-camus_hd.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/c6s2beqeezcd3xu213q4c9qjyvg5
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZlNzIzMmZiLTA1MWMtNGUxNC05Njg4LTFiNmQ2MjI2OTNkNiIsInB1ciI6ImJsb2JfaWQifX0=--bbbc104414e013754a2950ef5307ff5c56845819/couv-camus_hd.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/c6s2beqeezcd3xu213q4c9qjyvg5
 

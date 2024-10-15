@@ -5,6 +5,6 @@ width: 1920
 height: 918
 ratio: 2.0915032679738563
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwNzI5NDgxLTdmMWUtNGQ4OS1iZTc1LTg4Nzc3OGU2MWIwNSIsInB1ciI6ImJsb2JfaWQifX0=--c6fc1c63148e878c2a78d14480df84eaba568931/conf-spectacle-vivant.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/0ab7zgwuohvv4izc1hetpd7nfa6y
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwNzI5NDgxLTdmMWUtNGQ4OS1iZTc1LTg4Nzc3OGU2MWIwNSIsInB1ciI6ImJsb2JfaWQifX0=--0c48638aa12b2ad433c409faa791f71aaff371f6/conf-spectacle-vivant.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/0ab7zgwuohvv4izc1hetpd7nfa6y
 
