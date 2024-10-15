@@ -5,6 +5,6 @@ width: 1320
 height: 480
 ratio: 2.75
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImYyNDgwODA0LTBmNmUtNDZjNC04OWYxLThmMGZiOWYyMGI5MyIsInB1ciI6ImJsb2JfaWQifX0=--f24e0d7e5f60beec86ef9cbfcd198613fe4fef04/christina-wocintechchat-com-R_W_9D-53lw-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/n71qn4oh2ggua6uol4wqiex1o6g0
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImYyNDgwODA0LTBmNmUtNDZjNC04OWYxLThmMGZiOWYyMGI5MyIsInB1ciI6ImJsb2JfaWQifX0=--82cbfceab4f30741de333cad971df783ab8c9ee8/christina-wocintechchat-com-R_W_9D-53lw-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/n71qn4oh2ggua6uol4wqiex1o6g0
 

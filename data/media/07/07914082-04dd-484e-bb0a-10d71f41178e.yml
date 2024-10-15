@@ -5,6 +5,6 @@ width: 800
 height: 894
 ratio: 0.8948545861297539
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA3OTE0MDgyLTA0ZGQtNDg0ZS1iYjBhLTEwZDcxZjQxMTc4ZSIsInB1ciI6ImJsb2JfaWQifX0=--2431ae77b2068d615efb861f5e106318b4dc63c0/2-TABLEAU-INFO-REUNION-JPO-24.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/9kidkmzohehttv597njd6y3mvsym
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA3OTE0MDgyLTA0ZGQtNDg0ZS1iYjBhLTEwZDcxZjQxMTc4ZSIsInB1ciI6ImJsb2JfaWQifX0=--5cdeb5f9d1a4ebf50d91885889212b0e86d5a5cd/2-TABLEAU-INFO-REUNION-JPO-24.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9kidkmzohehttv597njd6y3mvsym
 

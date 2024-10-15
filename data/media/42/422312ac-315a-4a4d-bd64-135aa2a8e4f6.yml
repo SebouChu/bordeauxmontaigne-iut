@@ -5,6 +5,6 @@ width: 643
 height: 1000
 ratio: 0.643
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQyMjMxMmFjLTMxNWEtNGE0ZC1iZDY0LTEzNWFhMmE4ZTRmNiIsInB1ciI6ImJsb2JfaWQifX0=--0bdaa12c52ab5087d96496772e542c12d760a0de/visuel-Projet-de-territoire.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/clee9vbgykkg86zt2o72d4zlwofh
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQyMjMxMmFjLTMxNWEtNGE0ZC1iZDY0LTEzNWFhMmE4ZTRmNiIsInB1ciI6ImJsb2JfaWQifX0=--1de94a20aa973d0c4052e2ca615b672035d157f1/visuel-Projet-de-territoire.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/clee9vbgykkg86zt2o72d4zlwofh
 

@@ -5,6 +5,6 @@ width: 197
 height: 197
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIxYWIyZjJhLThjYjMtNDRmNy1hMDU0LTk0ZDJmODM2MThhOSIsInB1ciI6ImJsb2JfaWQifX0=--d4bac6efcd28e095c95f2a90a8b68685338622ad/EDL-LOGOfull-small-2024.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/d4alva4olcjey8s4hegrfk0ux33g
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIxYWIyZjJhLThjYjMtNDRmNy1hMDU0LTk0ZDJmODM2MThhOSIsInB1ciI6ImJsb2JfaWQifX0=--d1f9b94832c887956babcef5e8bb578cddefaa46/EDL-LOGOfull-small-2024.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/d4alva4olcjey8s4hegrfk0ux33g
 

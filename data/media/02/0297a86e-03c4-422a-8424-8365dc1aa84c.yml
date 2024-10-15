@@ -5,6 +5,6 @@ width: 960
 height: 460
 ratio: 2.0869565217391304
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjAyOTdhODZlLTAzYzQtNDIyYS04NDI0LTgzNjVkYzFhYTg0YyIsInB1ciI6ImJsb2JfaWQifX0=--2c36bac0d2cac30de449fcba845f16806db01d92/exoneration-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/jocakrod4fes56znemjb7i1krls4
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjAyOTdhODZlLTAzYzQtNDIyYS04NDI0LTgzNjVkYzFhYTg0YyIsInB1ciI6ImJsb2JfaWQifX0=--5f6d54b8fa73047ad77930f6f099b58ca3a4070c/exoneration-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jocakrod4fes56znemjb7i1krls4
 

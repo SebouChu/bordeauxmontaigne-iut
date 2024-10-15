@@ -5,6 +5,6 @@ width: 354
 height: 354
 ratio: 1.0
 format: square
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU0ZGQ4YjFmLTBhYTAtNDg0OS1iNTg0LThlMjA0NmZlMDYwOCIsInB1ciI6ImJsb2JfaWQifX0=--21aef066ab86e1bf72256ff7f67c3e6857036f6e/SCEAU-2.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/phm4cgtjvtfbyp7bpkgjyldb0afl
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU0ZGQ4YjFmLTBhYTAtNDg0OS1iNTg0LThlMjA0NmZlMDYwOCIsInB1ciI6ImJsb2JfaWQifX0=--1ffef887ee48eb26d1edd1ec6a4b575f1d0a6e98/SCEAU-2.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/phm4cgtjvtfbyp7bpkgjyldb0afl
 

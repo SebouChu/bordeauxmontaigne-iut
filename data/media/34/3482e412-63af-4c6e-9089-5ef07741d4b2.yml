@@ -5,6 +5,6 @@ width: 1752
 height: 918
 ratio: 1.908496732026144
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0ODJlNDEyLTYzYWYtNGM2ZS05MDg5LTVlZjA3NzQxZDRiMiIsInB1ciI6ImJsb2JfaWQifX0=--07d76838605fb71887b7be68434fbc27a093406a/jeswin-thomas-guLAk5gqj-Y-unsplash_crop.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/j8gufa8cwwljuhcncy6rmj2zmcwu
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0ODJlNDEyLTYzYWYtNGM2ZS05MDg5LTVlZjA3NzQxZDRiMiIsInB1ciI6ImJsb2JfaWQifX0=--c2a3a7cbfb71b181b56f6abe4a0186b13496e817/jeswin-thomas-guLAk5gqj-Y-unsplash_crop.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/j8gufa8cwwljuhcncy6rmj2zmcwu
 
