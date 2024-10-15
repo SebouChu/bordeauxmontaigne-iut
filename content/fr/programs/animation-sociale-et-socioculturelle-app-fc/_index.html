@@ -108,19 +108,27 @@ registration: >-
 results: >-
   <p><a href="https://www.u-bordeaux-montaigne.fr/fr/universite/chiffres-cles.html" target="_blank">→ Résultats de l'Observatoire de l'Université<span class="sr-only"> - lien externe</span></a></p>
 contents_reading_time:
-  seconds: 28
+  seconds: 29
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Formation initiale
-    slug: "formation-initiale"
-    position: 1
-    rank: 2
+    slug: >-
+      formation-initiale
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -145,6 +153,8 @@ contents:
     template: call_to_action
     title: >-
       Contacts
+    slug: >-
+      contacts
     ranks:
       self: 3
     data:
@@ -162,16 +172,23 @@ contents:
       buttons:
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Planning de la formation
-    slug: "planning-de-la-formation"
-    position: 2
-    rank: 2
+    slug: >-
+      planning-de-la-formation
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: files
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -191,7 +208,6 @@ contents:
 
           title: >-
             Planning prévisionnel 2024-2026
-
 
 
 

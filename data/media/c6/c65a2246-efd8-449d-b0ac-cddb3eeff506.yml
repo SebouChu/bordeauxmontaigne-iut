@@ -5,6 +5,6 @@ width: 214
 height: 300
 ratio: 0.7133333333333334
 format: portrait
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM2NWEyMjQ2LWVmZDgtNDQ5ZC1iMGFjLWNkZGIzZWVmZjUwNiIsInB1ciI6ImJsb2JfaWQifX0=--d06e985025e640f403cb45500f9570f43ef0aafe/Vente-CRM-fini-vignette-214x300.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/xb259rznsjeqpg33hupxk7zcyyww
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM2NWEyMjQ2LWVmZDgtNDQ5ZC1iMGFjLWNkZGIzZWVmZjUwNiIsInB1ciI6ImJsb2JfaWQifX0=--5c2ac968566c11221c01cbc80be47b324ac19be2/Vente-CRM-fini-vignette-214x300.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xb259rznsjeqpg33hupxk7zcyyww
 
