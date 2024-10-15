@@ -5,6 +5,6 @@ width: 960
 height: 460
 ratio: 2.0869565217391304
 format: landscape
-url: https://bordeauxmontaigne.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEwNGU4MWQyLTEyYTYtNDZlZC1hMzFkLTllMTkzNGJlZTU3YyIsInB1ciI6ImJsb2JfaWQifX0=--5ae722e4e8d20ae613db9f0fc84c9b8468674336/vente_campus19-u-bordeaux-montaigne.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/pme83xig3jmzg9yudy36kqxllv7v
+url: http://bordeauxmontaigne.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEwNGU4MWQyLTEyYTYtNDZlZC1hMzFkLTllMTkzNGJlZTU3YyIsInB1ciI6ImJsb2JfaWQifX0=--03661a027f2aa8f713cd75b5b418bd48608ae5d7/vente_campus19-u-bordeaux-montaigne.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/pme83xig3jmzg9yudy36kqxllv7v
 
